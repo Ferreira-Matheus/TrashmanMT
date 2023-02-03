@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TrashmanMT&color=green" alt="Profile views" /> </p>
 
 - 🔥 studying and seeking perfection
-- 📚learning **JavaScript,TypeScript, ReactJS, HTML, CSS, Node.JS**
+- 📚learning **JavaScript,TypeScript, ReactJS, HTML, CSS, SASS, TAILWIND, Node.JS**
 
 ## 🛠 &nbsp;Tech Stack
 
