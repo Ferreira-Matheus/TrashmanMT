@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TrashmanMT&color=green" alt="Profile views" /> </p>
 
 - 🔥 studying and seeking perfection
-- 📚learning **JavaScript, ReactJS, HTML, CSS, Node.JS**
+- 📚learning **JavaScript,TypeScript, ReactJS, HTML, CSS, Node.JS**
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
