@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Ferreira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TrashmanMT&color=green" alt="Profile views" /> </p>
 
 - 🔥 studying and seeking perfection
 - 📚learning **JavaScript,TypeScript, ReactJS, HTML, CSS, SASS, TAILWIND, Node.JS**
