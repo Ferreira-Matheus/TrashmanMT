@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Ferreira</h1>
+<h1 align="left">Hi, I'm Matheus Ferreira</h1>
 
 - 🔥 studying and seeking perfection
 - 📚learning **JavaScript,TypeScript, ReactJS, HTML, CSS, SASS, TAILWIND, Node.JS**
@@ -20,7 +20,6 @@
 <img width="510em" src="https://github-readme-stats.vercel.app/api?username=TrashmanMT&show_icons=true&theme=merko" alt="TrashmanMT's stats"/>
 <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrashmanMT&layout=compact&theme=merko" alt="TrashmanMT's most languages"/>
 </p>
-matheusferreiraml
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
